@@ -1,0 +1,14 @@
+
+
+.family{
+    color: coral;
+    margin-bottom: 30px;
+}
+
+.Bart, .Homer, .Marge{
+    color: blue;
+}
+
+.description{
+    font-style: italic;
+}
