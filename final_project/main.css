@@ -1,0 +1,338 @@
+body {
+    position: absolute;
+    width: 1440px;
+    height: 3400px;
+}
+
+.top {
+    position: absolute;
+    height: 83px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.logo {
+    position: absolute;
+    height: 52px;
+    width: 95px;
+    left: 36px;
+    top: 16px;
+}
+
+.logo_name {
+    position: absolute;
+    width: 104px;
+    height: 16px;
+    left: -4px;
+    top: 35px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.text_top_menu {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+}
+
+.why {
+    position: absolute;
+    height: 24px;
+    left: 301px;
+    top: 28px;
+}
+
+.product {
+    position: absolute;
+    width: 95px;
+    height: 24px;
+    left: 438px;
+    top: 28px;
+}
+
+.top_menu_v1 {
+    width: 10px;
+    height: 5px;
+}
+
+.customers {
+    position: absolute;
+    width: 90px;
+    height: 24px;
+    left: 555px;
+    top: 28px;
+}
+
+.resources {
+    position: absolute;
+    width: 90px;
+    height: 24px;
+    left: 696px;
+    top: 28px;
+}
+
+.plans {
+    position: absolute;
+    height: 24px;
+    left: 830px;
+    top: 28px;
+}
+
+.sign {
+    position: absolute;
+    height: 24px;
+    left: 1048px;
+    top: 28px;
+}
+
+.talk {
+    position: absolute;
+    height: 24px;
+    left: 1123px;
+    top: 28px;
+}
+
+.button_top {
+    position: absolute;
+    left: 1245px;
+    top: 15px;
+    width: 163px;
+    height: 54px;
+    border-radius: 4px;
+    background-color: #0B2330;
+}
+
+.button_top div {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    left: 29px;
+    top: 14px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.in_context {
+    position: absolute;
+    height: 256px;
+    left: 147px;
+    top: 237px;
+    width: 436px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 0.6px;
+    color: #0B2330;
+}
+.ensure{
+    position: absolute;
+    height: 96px;
+    width: 435px;
+    left: 147px;
+    top: 525px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+}
+.button_yellow {
+    width: 163px;
+    height: 54px;
+    border-radius: 4px;
+    background-color: #F9C600;
+}
+.button_yellow_1 {
+    position: absolute;
+    left: 147px;
+    top: 659px;
+}
+
+.button_yellow div {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    left: 29px;
+    top: 14px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+}
+.button_white {
+    position: absolute;
+    left: 326px;
+    top: 659px;
+    width: 156px;
+    height: 54px;
+    border: 1px solid #0B2330;
+    border-radius: 4px;
+    background-color: #ffffff;
+}
+
+.button_white div {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    left: 29px;
+    top: 14px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.yellow_box{
+    position: absolute;
+    width: 600px;
+    height: 886px;
+    left: 840px;
+    top: 83px;
+    background: #F9C600;
+}
+.yellow_foto {
+    position: absolute;
+    width: 608px;
+    height: 541px;
+    left: -110px;
+    top: 172px;
+}
+.vector_1{
+    position: absolute;
+    top: 774px;
+}
+.vector_2{
+    position: absolute;
+    top: 799px;
+    left: 220px;
+}
+.vector_3{
+    position: absolute;
+    top: 849px;
+}
+.vector_4{
+    position: absolute;
+    top: 877px;
+    left: 220px;
+}
+.trusted{
+    position: absolute;
+    width: 547px;
+    height: 96px;
+    left: calc(50% - 547px/2 + 1px);
+    top: 1158px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+}
+.box_list > div > div{
+    width: 153px;
+    height: 56px;
+}
+.box_list{
+    position: absolute;
+    left: 120px;
+    top: 1313px;
+    width: 1200px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 82px;
+    row-gap: 16px;
+    flex-wrap: wrap;
+}
+.green_whole{
+    position: absolute;
+    width: 1376px;
+    left: 32px;
+    top: 1705px;
+}
+.green{
+    position: absolute;
+    width: 1376px;
+    height: 494px;
+    background: #51CEBC;
+    border-radius: 10px;
+}
+.bicycle{
+    position: absolute;
+    top: 56px;
+}
+.modern{
+    position: absolute;
+    top: 114px;
+    left: 698px;
+    font-family: Roboto;
+    width: 557px;
+    height: 120px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+.modern_bottom{
+    position: absolute;
+    top: 269px;
+    left: 698px;
+    width: 533px;
+    height: 64px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+}
+.sprig_makes{
+    position: absolute;
+    top: 685px;
+    left: 365px;
+    width: 711px;
+    height: 80px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+.drop{
+    position: absolute;
+    top: 822px;
+    width: 911px;
+    height: 528px;
+    left: 265px;
+}
+.button_yellow_2 {
+    position: absolute;
+    left: 638px;
+    top: 1463px;
+}
+
+
