@@ -7,11 +7,11 @@ body {
 .top {
     position: absolute;
     height: 83px;
-    left: 0%;
-    right: 0%;
-    top: 0px;
+    left: 0;
+    right: 0;
+    top: 0;
     background: #FFFFFF;
-    border-radius: 0px;
+    border-radius: 0;
 }
 
 .logo {
@@ -29,7 +29,7 @@ body {
     left: -4px;
     top: 35px;
 
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
@@ -38,7 +38,7 @@ body {
 }
 
 .text_top_menu {
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -115,7 +115,7 @@ body {
 
 .button_top div {
     position: absolute;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     left: 29px;
@@ -131,7 +131,7 @@ body {
     left: 147px;
     top: 237px;
     width: 436px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 60px;
@@ -145,7 +145,7 @@ body {
     width: 435px;
     left: 147px;
     top: 525px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
@@ -166,7 +166,7 @@ body {
 
 .button_yellow div {
     position: absolute;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     left: 29px;
@@ -188,7 +188,7 @@ body {
 
 .button_white div {
     position: absolute;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     left: 29px;
@@ -236,7 +236,7 @@ body {
     height: 96px;
     left: calc(50% - 547px/2 + 1px);
     top: 1158px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 42px;
@@ -284,7 +284,7 @@ body {
     position: absolute;
     top: 114px;
     left: 698px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     width: 557px;
     height: 120px;
     font-style: normal;
@@ -300,7 +300,7 @@ body {
     left: 698px;
     width: 533px;
     height: 64px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
@@ -313,7 +313,7 @@ body {
     left: 365px;
     width: 711px;
     height: 80px;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 34px;
